@@ -35,6 +35,11 @@
     transition: all 0.2s;
 }
 
+.product-list article a:hover {
+    background-color: #da552f;
+    color: #fff;
+}
+
 .product-list .actions {
     display: flex;
     justify-content: space-between;
